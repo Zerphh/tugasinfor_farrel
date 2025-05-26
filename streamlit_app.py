@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("Infor mati, fisika masak, cuakss")
-st.write("Farrel, zerph, Fawwaz, Ahli Hukum")
+st.title("Selamat datang web cara mengundurkan diri dari osn")
+st.write("by Farrel")
