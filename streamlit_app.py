@@ -6,7 +6,9 @@ st.write(" ")
 st.image("IMG_4589.png", width=200)
 st.image("IMG_4588.png")
 st.image("IMG_4590.jpeg", width=500)
-st.write("📝 1. Siapkan Surat Pengunduran Diri Resmi
+st.markdown(
+"""
+📝 1. Siapkan Surat Pengunduran Diri Resmi
 Buatlah surat pengunduran diri yang ditujukan kepada panitia OSN dan kepala sekolah. Surat tersebut sebaiknya memuat:
 Mamikos
 
@@ -28,4 +30,6 @@ Pusat Prestasi Nasional
 Oleh karena itu, penting untuk menyampaikan alasan pengunduran diri secara jelas dan didukung oleh bukti, seperti surat keterangan dokter jika alasan kesehatan.
 
 ✅ 4. Koordinasi dengan Sekolah
-Diskusikan rencana pengunduran diri Anda dengan guru pembimbing atau kepala sekolah. Mereka dapat membantu menyampaikan pengunduran diri Anda kepada panitia OSN dan memastikan bahwa prosedur.")
+Diskusikan rencana pengunduran diri Anda dengan guru pembimbing atau kepala sekolah. Mereka dapat membantu menyampaikan pengunduran diri Anda kepada panitia OSN dan memastikan bahwa prosedur.
+"""
+)
